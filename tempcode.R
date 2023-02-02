@@ -1,3 +1,2 @@
-library(ISLR)
-data1 = iris
-head(data1)
+
+usethis::create_github_token()
